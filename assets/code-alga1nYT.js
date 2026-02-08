@@ -1,0 +1,1 @@
+import{c}from"./index-TuxsDwMd.js";const o=[["path",{d:"M20 6 9 17l-5-5",key:"1gmf2c"}]],a=c("check",o);const e=[["path",{d:"m16 18 6-6-6-6",key:"eg8j8"}],["path",{d:"m8 6-6 6 6 6",key:"ppft3o"}]],d=c("code",e);export{d as C,a};
