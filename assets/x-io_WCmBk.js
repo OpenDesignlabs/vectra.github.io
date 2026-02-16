@@ -1,0 +1,1 @@
+import{m as o}from"./index-xwBa8bnV.js";const c=[["path",{d:"M20 6 9 17l-5-5",key:"1gmf2c"}]],a=o("check",c);const e=[["path",{d:"m16 18 6-6-6-6",key:"eg8j8"}],["path",{d:"m8 6-6 6 6 6",key:"ppft3o"}]],n=o("code",e);const t=[["path",{d:"M18 6 6 18",key:"1bl5f8"}],["path",{d:"m6 6 12 12",key:"d8bk6v"}]],p=o("x",t);export{n as C,p as X,a};
